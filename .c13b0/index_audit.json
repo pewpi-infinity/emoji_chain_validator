@@ -1,7 +1,6 @@
 {
   "repo": "emoji_chain_validator",
-  "audited_at": "2025-12-28T06:28:34Z",
-  "purpose": "marketplace",
-  "legacy_layout": false,
+  "audited_at": "2025-12-28T07:43:27Z",
+  "purpose": "feed",
   "index_present": true
 }
